@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="title">#CD000000</color>
+    <color name="card_background">#F5F5F5</color>
+    <color name="gray_0">#EDEDED</color>
+    <color name="gray_1">#888888</color>
+    <color name="gray_2">#333333</color>
+    <color name="gray_3">#C7313033</color>
+    <color name="h_rec_cardBackGround">#FFF6FF</color>
+    <color name="onBoardingBody">#C7313033</color>
+    <color name="cardBackGround">#F7F4F8</color>
+    <color name="white_200">#FDF9FD</color>
+    <color name="white_100">#B3F6EBF7</color>
+    <color name="transparent">#03FFFFFF</color>
+    <!--    -->
+    <color name="Stroke">#4E0654</color>
+    <color name="un_focused">#806E2874</color>
+    <color name="toolTip">#A66E2874</color>
+    <color name="heading">#4A0F4F</color>
+    <color name="main_color">#932A8D</color>
+    <color name="purple_300">#33932A8D</color>
+    <color name="purple_50">#1A932A8D</color>
+    <color name="purple_100">#A950A4</color>
+    <color name="purple_10">#1AFBCDF9</color>
+</resources>

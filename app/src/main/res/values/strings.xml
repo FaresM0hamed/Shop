@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">Shop App With Clean Arch</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <!--    Auth Screens-->
+    <string name="loginHeader">مرحبا بعودتك</string>
+    <string name="loginBody">قم بتسجيل الدخول لحسابك</string>
+    <string name="loginEmail">البريد الإلكتروني</string>
+    <string name="loginPassword">كلمة المرور</string>
+    <string name="forgotPassword"><u>نسيت كلمة المرور؟</u></string>
+    <string name="login">تسجيل الدخول</string>
+    <string name="or">أو</string>
+    <string name="huaweiLogin"> المتابعة بحساب هواوي</string>
+    <string name="doNotHaveAccount">لا تمتلك حسابا؟</string>
+    <string name="createAccount"><u>انشئ حسابك</u></string>
+    <string name="signUPHeader">أهلا بك</string>
+    <string name="signUpBody">قم بإنشاء حسابك الآن</string>
+    <string name="userName">اسم المستخدم</string>
+    <string name="confirmPassword">تأكيد كلمة المرور</string>
+    <string name="agreeWith">أوافق على</string>
+    <string name="google_btn">المتابعة بحساب Google</string>
+    <string name="polices"><u>سياسات الشروط والأحكام</u></string>
+    <string name="signUp">انشئ حساب</string>
+    <string name="haveAccount">بالفعل لديك حساب؟</string>
+    <string name="doLogin"><u>قم بتسجيل الدخول</u></string>
+    <string name="forgotPasswordHead">نسيت كلمة المرور؟</string>
+    <string name="forgotPasswordBody">لا تقلق ،دائما يحدث ذلك \nمن فضلك قم بإدخال بريدك الإلكتروني</string>
+    <string name="confirm">تأكيد</string>
+    <string name="resetPasswordBody">قم بإدخال رمز التحقق المرسل إلى بريدك</string>
+    <string name="verificationCode">رمز التحقق</string>
+    <string name="resetPasswordBody2">أعد تعيين كلمة المرور</string>
+    <string name="newPassword">كلمة مرور جديدة</string>
+    <string name="required">مطلوب</string>
+    <string name="add_to_cart">Add to Cart</string>
+    <string name="newPasswordF">كلمة المرور الجديدة</string>
+    <string name="password">كلمة المرور</string>
+</resources>
